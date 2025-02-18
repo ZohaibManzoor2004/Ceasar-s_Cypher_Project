@@ -1,0 +1,10 @@
+*{
+    background-color: aquamarine;
+    text-align:center;
+    align-content: baseline;
+}
+button{
+    background-color: green;
+    align-content: center;
+    border-radius: 40%;
+}
